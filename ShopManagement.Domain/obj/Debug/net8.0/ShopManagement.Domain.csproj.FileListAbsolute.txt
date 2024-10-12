@@ -1,0 +1,17 @@
+C:\Projects\Lamp\ShopManagement.Domain\bin\Debug\net8.0\ShopManagement.Domain.deps.json
+C:\Projects\Lamp\ShopManagement.Domain\bin\Debug\net8.0\ShopManagement.Domain.dll
+C:\Projects\Lamp\ShopManagement.Domain\bin\Debug\net8.0\ShopManagement.Domain.pdb
+C:\Projects\Lamp\ShopManagement.Domain\bin\Debug\net8.0\0_Framework.dll
+C:\Projects\Lamp\ShopManagement.Domain\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
+C:\Projects\Lamp\ShopManagement.Domain\bin\Debug\net8.0\0_Framework.pdb
+C:\Projects\Lamp\ShopManagement.Domain\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb
+C:\Projects\Lamp\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.csproj.AssemblyReference.cache
+C:\Projects\Lamp\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lamp\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.AssemblyInfoInputs.cache
+C:\Projects\Lamp\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.AssemblyInfo.cs
+C:\Projects\Lamp\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Lamp\ShopManagement.Domain\obj\Debug\net8.0\ShopMana.2E6A1FF6.Up2Date
+C:\Projects\Lamp\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.dll
+C:\Projects\Lamp\ShopManagement.Domain\obj\Debug\net8.0\refint\ShopManagement.Domain.dll
+C:\Projects\Lamp\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.pdb
+C:\Projects\Lamp\ShopManagement.Domain\obj\Debug\net8.0\ref\ShopManagement.Domain.dll
