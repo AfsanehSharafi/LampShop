@@ -13,3 +13,4 @@ C:\Projects\Lamp\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManag
 C:\Projects\Lamp\ShopManagement.Application.Contracts\obj\Debug\net8.0\refint\ShopManagement.Application.Contracts.dll
 C:\Projects\Lamp\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.pdb
 C:\Projects\Lamp\ShopManagement.Application.Contracts\obj\Debug\net8.0\ref\ShopManagement.Application.Contracts.dll
+C:\Projects\Lamp\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.sourcelink.json

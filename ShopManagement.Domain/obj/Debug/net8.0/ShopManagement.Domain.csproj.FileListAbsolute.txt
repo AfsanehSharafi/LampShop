@@ -15,3 +15,4 @@ C:\Projects\Lamp\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.dl
 C:\Projects\Lamp\ShopManagement.Domain\obj\Debug\net8.0\refint\ShopManagement.Domain.dll
 C:\Projects\Lamp\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.pdb
 C:\Projects\Lamp\ShopManagement.Domain\obj\Debug\net8.0\ref\ShopManagement.Domain.dll
+C:\Projects\Lamp\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.sourcelink.json

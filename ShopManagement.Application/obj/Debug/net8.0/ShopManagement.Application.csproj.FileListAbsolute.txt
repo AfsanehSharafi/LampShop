@@ -17,3 +17,4 @@ C:\Projects\Lamp\ShopManagement.Application\obj\Debug\net8.0\ShopManagement.Appl
 C:\Projects\Lamp\ShopManagement.Application\obj\Debug\net8.0\refint\ShopManagement.Application.dll
 C:\Projects\Lamp\ShopManagement.Application\obj\Debug\net8.0\ShopManagement.Application.pdb
 C:\Projects\Lamp\ShopManagement.Application\obj\Debug\net8.0\ref\ShopManagement.Application.dll
+C:\Projects\Lamp\ShopManagement.Application\obj\Debug\net8.0\ShopManagement.Application.sourcelink.json

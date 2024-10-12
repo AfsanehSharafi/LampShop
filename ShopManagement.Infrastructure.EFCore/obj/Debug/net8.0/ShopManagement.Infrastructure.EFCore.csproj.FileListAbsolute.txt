@@ -19,3 +19,4 @@ C:\Projects\Lamp\ShopManagement.Infrastructure.EFCore\obj\Debug\net8.0\refint\Sh
 C:\Projects\Lamp\ShopManagement.Infrastructure.EFCore\obj\Debug\net8.0\ShopManagement.Infrastructure.EFCore.pdb
 C:\Projects\Lamp\ShopManagement.Infrastructure.EFCore\obj\Debug\net8.0\ShopManagement.Infrastructure.EFCore.genruntimeconfig.cache
 C:\Projects\Lamp\ShopManagement.Infrastructure.EFCore\obj\Debug\net8.0\ref\ShopManagement.Infrastructure.EFCore.dll
+C:\Projects\Lamp\ShopManagement.Infrastructure.EFCore\obj\Debug\net8.0\ShopManagement.Infrastructure.EFCore.sourcelink.json
